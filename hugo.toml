@@ -1,6 +1,11 @@
 baseURL = 'https://fritsteeuwen.github.com/'
 languageCode = 'nl'
-title = "Frits' foto website"
+title = "Gallery"
+timeZone = "Europe/Amsterdam"
+
+[params]
+  description = "Portfolio website van Frits Teeuwen"
+  title = Gallerij van Frits
 
 [module]
   [[module.imports]]
