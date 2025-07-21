@@ -3,7 +3,7 @@ date: 2025-01-12
 title: Macro
 categories:  ["Macro"]
 resources:
-  - src: 
+  - src: Paddenstoel.jpg
     params:
       cover: true
 ---
