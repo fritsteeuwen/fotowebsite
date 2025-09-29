@@ -3,7 +3,7 @@ date: 2025-01-12
 title: Architectuur
 categories: ["Architectuur"]
 resources:
-  - src: Brugge_2025 (1).jpg
+  - src: Brugge_2025_2.jpg
     params:
       cover: true
 ---
