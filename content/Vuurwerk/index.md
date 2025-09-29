@@ -3,7 +3,7 @@ date: 2025-01-12
 title: Vuurwerk
 categories: ["Vuurwerk"]
 resources:
-  - src: khardur_photograph_of_architecture_in_the_netherlands_rotterdam_986c1307-141d-42b9-8a8b-64f2896a1d8e.png
+  - src: Vuurwerk_lommel(1).jpg
     params:
       cover: true
 ---
