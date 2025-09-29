@@ -3,7 +3,7 @@ date: 2025-01-12
 title: Portret
 categories: ["Portret"]
 resources:
-  - src: 
+  - src: Frits.jpg
     params:
       cover: true
 ---
