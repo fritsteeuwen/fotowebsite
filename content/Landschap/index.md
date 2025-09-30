@@ -4,6 +4,6 @@ title: Landschap
 categories: ["Landschap"]
 resources:
   - src: 
-    params:
+    params: DSC_0578.jpg
       cover: true
 ---
