@@ -5,7 +5,7 @@ timeZone = "Europe/Amsterdam"
 
 [params]
   description = "Portfolio website van Frits"
-  title = "Gallerij van Frits"
+  title = "Gallerij van Frits "
 
 [module]
   [[module.imports]]
