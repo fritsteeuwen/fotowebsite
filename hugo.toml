@@ -2,7 +2,7 @@ baseURL = 'https://fritsteeuwen.github.com/'
 languageCode = 'nl'
 title = "Frits Teeuwen"
 timeZone = "Europe/Amsterdam"
-timeout = 120s
+timeout = 120
 
 [params]
   description = "Portfolio website van Frits"
