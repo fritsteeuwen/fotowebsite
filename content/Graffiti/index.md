@@ -1,9 +1,9 @@
 ---
 date: 2025-01-12
-title: Grafitti
-categories: ["Grafitti"]
+title: Graffiti
+categories: ["Graffiti"]
 resources:
-  - src: Grafitti.jpg
+  - src: Graffiti.jpg
     params:
       cover: true
 ---
