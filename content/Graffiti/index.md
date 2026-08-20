@@ -1,9 +1,9 @@
 ---
 date: 2025-01-12
-title: Graffiti
-categories: ["Graffiti"]
+title: Kastelen
+categories: ["Kastelen"]
 resources:
-  - src: Graffiti.jpg
+  - src: Kastelen.jpg
     params:
       cover: true
 ---
